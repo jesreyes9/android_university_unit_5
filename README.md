@@ -31,7 +31,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I mostly spent most of my time trying to figure out what was wrong with my emulator because it would not build the application at all. One of the TAs' helped me to debug the problem and he was able to solve it.
 
 ## Open-source libraries used
 
